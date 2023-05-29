@@ -1,0 +1,15 @@
+{
+    "name": "SupplierApi",
+    "alias": "supplierapi",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\SupplierApi\\Providers\\SupplierApiServiceProvider"
+    ],
+    "files": [],
+    "title": "",
+    "version":"",
+    "compatibility": "",
+    "author": ""
+}

@@ -1,0 +1,38 @@
+# This is a basic Bitbucket Pipeline configuration for a Laravel project.
+
+# Set the pipelines language to PHP
+image: php:8.1
+
+# Set environment variables for your Laravel application
+
+# Define the steps for the pipeline
+pipelines:
+  branches:
+    master:
+      - step:
+          name: Install Dependencies
+          caches:
+            - composer
+          script:
+            - if [ ! -f /usr/local/bin/composer ]; then curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer; fi;
+            - if [[ "$(git diff HEAD^ --name-only | grep 'composer.json')" != "" ]]; then composer install --prefer-dist --no-scripts --no-progress --no-suggest; fi;
+
+          artifacts:
+            - vendor/**/*
+
+      - step:
+          name: Run Tests
+          script:
+            - if [[ ! -f .env ]] || [[ "$(md5sum .env.example | cut -d' ' -f1)" != "$(md5sum .env | cut -d' ' -f1)" ]]; then cp .env.example .env && php artisan key:generate && vendor/bin/phpunit --coverage-text; fi;
+          artifacts:
+            - storage/logs/*.log
+      - step:
+          name: Deploy to Production
+          deployment: production
+          script:
+            - if [ ! -f ~/.ssh/id_rsa ]; then echo "$SSH_PRIVATE_KEY" | tr -d '\r' > ~/.ssh/id_rsa && chmod 600 ~/.ssh/id_rsa; fi
+            - echo "$SSH_KNOWN_HOSTS" > ~/.ssh/known_hosts
+            - ssh -o StrictHostKeyChecking=no $SERVER_USERNAME@$SERVER_IP
+            - cd $SERVER_PATH && git stash && git pull origin master && git stash pop
+            - cd $SERVER_PATH && composer update --no-interaction --no-dev --prefer-dist
+            - cd $SERVER_PATH && php artisan migrate --force

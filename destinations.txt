@@ -1,0 +1,226 @@
+Country:Greece , Region:,
+Country:Canada , Region:,Eastern Canada
+Country:France , Region:,
+Country:United Kingdom , Region:,England
+Country:Italy , Region:,
+Country:United States , Region:,Eastern & Midwestern USA
+Country:United States , Region:,Southern USA
+Country:Italy , Region:,
+Country:Italy , Region:,
+Country:Italy , Region:,
+Country:Italy , Region:,
+Country:Austria , Region:,
+Country:Czech Republic , Region:,
+Country:Hungary , Region:,
+Country:Slovakia , Region:,
+Country:Austria , Region:,
+Country:Germany , Region:,
+Country:Switzerland , Region:,
+Country:Portugal , Region:,
+Country:France , Region:,
+Country:Portugal , Region:,
+Country:Spain , Region:,
+Country:United Kingdom , Region:,England
+Country:United Kingdom , Region:,Scotland
+Country:United Kingdom , Region:,Wales
+Country:Austria , Region:,
+Country:Germany , Region:,
+Country:Switzerland , Region:,
+Country:United States , Region:,Eastern & Midwestern USA
+Country:United States , Region:,Southern USA
+Country:United States , Region:,Eastern & Midwestern USA
+Country:Ireland , Region:,
+Country:United Kingdom , Region:,England
+Country:United Kingdom , Region:,Scotland
+Country:United States , Region:,Western USA
+Country:United States , Region:,Western USA
+Country:Ireland , Region:,
+Country:United States , Region:,Southern USA
+Country:United States , Region:,Eastern & Midwestern USA
+Country:United States , Region:,Southern USA
+Country:United States , Region:,Eastern & Midwestern USA
+Country:Costa Rica , Region:,
+Country:United States , Region:,Western USA
+Country:United Kingdom , Region:,England
+Country:United Kingdom , Region:,Scotland
+Country:United States , Region:,Western USA
+Country:Australia , Region:,
+Country:New Zealand , Region:,
+Country:Australia , Region:,
+Country:New Zealand , Region:,
+Country:United States , Region:,Western USA
+Country:Denmark , Region:,
+Country:Norway , Region:,
+Country:Sweden , Region:,
+Country:Australia , Region:,
+Country:New Zealand , Region:,
+Country:Antarctica , Region:,
+Country:Argentina , Region:,
+Country:Italy , Region:,
+Country:Austria , Region:,
+Country:Czech Republic , Region:,
+Country:Germany , Region:,
+Country:Hungary , Region:,
+Country:Poland , Region:,
+Country:Slovakia , Region:,
+Country:United States , Region:,Western USA
+Country:Kenya , Region:,
+Country:Canada , Region:,Western Canada
+Country:United States , Region:,Western Canada
+Country:United States , Region:,Western USA
+Country:South Africa , Region:,
+Country:Ireland , Region:,
+Country:United Kingdom , Region:,England
+Country:United Kingdom , Region:,Scotland
+Country:Belgium , Region:,
+Country:Netherlands , Region:,
+Country:Austria , Region:,
+Country:Germany , Region:,
+Country:Canada , Region:,Western Canada
+Country:United States , Region:,Western USA
+Country:Israel , Region:,
+Country:France , Region:,
+Country:Monaco , Region:,
+Country:Croatia , Region:,
+Country:Slovenia , Region:,
+Country:Spain , Region:,
+Country:United States , Region:,Western USA
+Country:United States , Region:,Western USA
+Country:France , Region:,
+Country:India , Region:,
+Country:Costa Rica , Region:,
+Country:Italy , Region:,
+Country:Greece , Region:,
+Country:Turkey , Region:,
+Country:United States , Region:,Eastern & Midwestern USA
+Country:Canada , Region:,Western Canada
+Country:United States , Region:,Southern USA
+Country:Israel , Region:,
+Country:Italy , Region:,
+Country:Portugal , Region:,
+Country:Italy , Region:,
+Country:Switzerland , Region:,
+Country:Cambodia , Region:,
+Country:Laos , Region:,
+Country:Thailand , Region:,
+Country:Vietnam , Region:,
+Country:United States , Region:,Eastern & Midwestern USA
+Country:Ireland , Region:,
+Country:United States , Region:,Western USA
+Country:Italy , Region:,
+Country:United States , Region:,Western USA
+Country:Iceland , Region:,
+Country:Botswana , Region:,
+Country:South Africa , Region:,
+Country:Zimbabwe , Region:,
+Country:Ireland , Region:,
+Country:Poland , Region:,
+Country:Canada , Region:,Atlantic Canada
+Country:France , Region:,
+Country:United Kingdom , Region:,England
+Country:Egypt , Region:,
+Country:France , Region:,
+Country:United Kingdom , Region:,England
+Country:Iceland , Region:,
+Country:Morocco , Region:,
+Country:France , Region:,
+Country:France , Region:,
+Country:Germany , Region:,
+Country:Netherlands , Region:,
+Country:Switzerland , Region:,
+Country:Germany , Region:,
+Country:Israel , Region:,
+Country:Iceland , Region:,
+Country:Finland , Region:,
+Country:Japan , Region:,
+Country:Switzerland , Region:,
+Country:Morocco , Region:,
+Country:Spain , Region:,
+Country:United States , Region:,Western USA
+Country:Greece , Region:,
+Country:France , Region:,
+Country:Italy , Region:,
+Country:Switzerland , Region:,
+Country:United Kingdom , Region:,England
+Country:Russia , Region:,
+Country:Norway , Region:,
+Country:Australia , Region:,
+Country:New Zealand , Region:,
+Country:United States , Region:,Eastern & Midwestern USA
+Country:Croatia , Region:,
+Country:Portugal , Region:,
+Country:Portugal , Region:,
+Country:Spain , Region:,
+Country:United States , Region:,Southern USA
+Country:Egypt , Region:,
+Country:Jordan , Region:,
+Country:Argentina , Region:,
+Country:Chile , Region:,
+Country:Italy , Region:,
+Country:Estonia , Region:,
+Country:Latvia , Region:,
+Country:Lithuania , Region:,
+Country:Greece , Region:,
+Country:United States , Region:,Western Canada
+Country:United States , Region:,Western USA
+Country:United Kingdom , Region:,Scotland
+Country:Ecuador , Region:,
+Country:Peru , Region:,
+Country:Portugal , Region:,
+Country:Spain , Region:,
+Country:Italy , Region:,
+Country:Italy , Region:,
+Country:Belgium , Region:,
+Country:France , Region:,
+Country:Netherlands , Region:,
+Country:Kenya , Region:,
+Country:Tanzania , Region:,
+Country:Portugal , Region:,
+Country:Spain , Region:,
+Country:Japan , Region:,
+Country:Bosnia and Herzegovina , Region:,
+Country:Croatia , Region:,
+Country:Montenegro , Region:,
+Country:Slovenia , Region:,
+Country:New Zealand , Region:,
+Country:Israel , Region:,
+Country:Jordan , Region:,
+Country:United States , Region:,Western USA
+Country:Ireland , Region:,
+Country:Northern Ireland , Region:,
+Country:Thailand , Region:,
+Country:United Kingdom , Region:,England
+Country:United Kingdom , Region:,Scotland
+Country:Austria , Region:,
+Country:France , Region:,
+Country:Germany , Region:,
+Country:Italy , Region:,
+Country:Switzerland , Region:,
+Country:Belgium , Region:,
+Country:France , Region:,
+Country:Netherlands , Region:,
+Country:United Kingdom , Region:,England
+Country:United Kingdom , Region:,Scotland
+Country:Italy , Region:,
+Country:United States , Region:,Western USA
+Country:Canada , Region:,Western Canada
+Country:Peru , Region:,
+Country:United States , Region:,Eastern & Midwestern USA
+Country:United States , Region:,Western USA
+Country:United States , Region:,Southern USA
+Country:United States , Region:,Eastern & Midwestern USA
+Country:Austria , Region:,
+Country:Czech Republic , Region:,
+Country:Germany , Region:,
+Country:Hungary , Region:,
+Country:Poland , Region:,
+Country:Slovakia , Region:,
+Country:Croatia , Region:,
+Country:United States , Region:,Eastern & Midwestern USA
+Country:France , Region:,
+Country:Italy , Region:,
+Country:Spain , Region:,
+Country:Botswana , Region:,
+Country:South Africa , Region:,
+Country:Zimbabwe , Region:,
+Country:Turkey , Region:,

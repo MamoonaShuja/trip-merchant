@@ -1,0 +1,11 @@
+{
+    "Admin": true,
+    "Organizer": true,
+    "Supplier": true,
+    "Member": true,
+    "Core": true,
+    "User": true,
+    "Tour": true,
+    "Employee": true,
+    "SupplierApi": true
+}
